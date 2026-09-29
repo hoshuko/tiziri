@@ -83,10 +83,11 @@ Found a vulnerability? Please report it privately from the repository’s **Secu
 
 ## More templates
 
-Part of **Storefronts in motion**, a series of four scroll-animated website templates:
+Part of **Storefronts in motion**, a series of five scroll-animated website templates:
 
 - **[Maison Billot](https://github.com/hoshuko/maison-billot/blob/main/README.md)**: A scroll-animated website for an artisan butcher: beef explained cut by cut.
 - **[Tafat](https://github.com/hoshuko/tafat/blob/main/README.md)**: A website for a women-run home cleaning team on the Kabylian coast: a squeegee wipes the window clean as you scroll.
 - **[Atelier Nacre](https://github.com/hoshuko/atelier-nacre/blob/main/README.md)**: A website for a nail studio in Bordeaux: a gel set taken apart layer by layer, a colour try-on and online booking.
+- **[Lalla Warda](https://github.com/hoshuko/lalla-warda/blob/main/README.md)**: The website of a natural cosmetics brand from Kenitra: a 3D rose blooms into a serum bottle, and every product shows what it is made of and how it goes on the face and hair.
 
 Portfolio: <https://hoshuko.github.io/en.html> · YouTube: <https://www.youtube.com/@Hosh-uko>
